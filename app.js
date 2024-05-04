@@ -118,7 +118,7 @@
 
 
 
-// // Answer No 7
+// // Answer No 8
 
 // var input = +prompt(`Enter Your time in 24 hour format?`);
 
@@ -134,17 +134,17 @@
 //     console.log(`Please Enter Corrent Time.`);
 // }
 
-// // Answer No 7
-
-
-
-
-
-
-
-
-
 // // Answer No 8
+
+
+
+
+
+
+
+
+
+// // Answer No 9
 
 // var input = prompt(`Write down Year in YYYY Format to check if its leap year or not`);
 
@@ -190,4 +190,113 @@
 //     console.log(`Its not a leap year`);
 // }
 
-// // Answer No 8
+// // Answer No 9
+
+
+
+
+
+
+
+
+
+// // Answer No 11
+// var firstName = `Ali`
+
+// if (firstName === `Fahad`) {
+//     document.write(`Hello Fahad`)
+// }else{
+//     document.write(`Hello ${firstName}`)
+// }
+
+// // Answer No 11
+
+
+
+
+
+
+
+
+
+// // Answer No 12
+
+// var greeting;
+// var hour = 13;
+// if (hour < 18) {
+//     greeting = `Good Day`
+// }else{
+//     greeting = `Good Everning`
+// }
+
+// // Answer No 12
+
+
+
+
+
+
+
+
+
+// // Answer No 13
+
+// var input1 = +prompt(`Enter First Value?`);
+// var input2 = +prompt(`Enter Second Value?`);
+
+// if (input1 > input2) {
+//     document.write(`${input1} is larger`)
+// }else if (input2 > input1) {
+//     document.write(`${input2} is larger`)
+// }else if (input1 = input2) {
+//     document.write(`${input1} and ${input2} is Equal`)
+// }
+
+// // Answer No 13
+
+
+
+
+
+
+
+
+
+
+// // Answer No 14
+
+// var num = +prompt(`Enter number?`);
+
+// if (num > 0) {
+//     console.log(`${num} is Positive number`)
+// }else if (num < 0) {
+//     console.log(`${num} is Negative number`)
+// }else if (num == 0) {
+//     console.log(`${num} is Zero`)
+// }
+
+// // Answer No 14
+
+
+
+
+
+
+
+
+
+// // Answer No 15
+
+// var input = +prompt(`Enter Your time in 24 hour format?`);
+
+// if (input > 0o00 && input < 1200) {
+//     console.log(`Breakfast is served!`);
+// }else if (input >= 1200 && input < 1700)  {
+//     console.log(`Time For Lunch!`);
+// }else if (input >= 1700 && input < 2100)  {
+//     console.log(`Sorry, You have to wait, or get a snack!`);
+// }else{
+//     console.log(`Please Enter Corrent Time.`);
+// }
+
+// // Answer No 15
