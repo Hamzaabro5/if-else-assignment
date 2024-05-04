@@ -331,7 +331,7 @@
 
 
 
-// // Answer No 17
+// // Answer No 18
 
 
 // if (10 != 8 ) {
@@ -340,17 +340,17 @@
 //     console.log(false);
 // }
 
-// // Answer No 17
-
-
-
-
-
-
-
-
-
 // // Answer No 18
+
+
+
+
+
+
+
+
+
+// // Answer No 19
 
 // var month = 8;
 
@@ -380,4 +380,24 @@
 //     console.log(`December`);
 // }
 
-// // Answer No 18
+// // Answer No 19
+
+
+
+
+
+
+
+
+
+// // Answer No 20
+
+// var age = 21;
+
+// if (age < 18) {
+//     console.log(`Votable is too Young`);
+// }else{
+//     console.log(`Old Enough`);
+// }
+
+// // Answer No 20
